@@ -1,4 +1,4 @@
-# chinaGPTClaude
+# 国内怎么便宜又方便的订阅GPT Claude 套餐
 
 写这个是为了方便大家可以自己订阅GPT 或者Claude, 愿意自己用并且愿意自己的折腾的, 都可以用这个
 
