@@ -71,5 +71,18 @@ javascript:(async function(){try{const t=await(await fetch("/api/auth/session"))
 结束.
 
 
-## 如何订阅Claude Code
--- 待补充
+## 如何订阅Claude 
+
+订阅 Claude Plan 就注定了要做好随时可能被封号的准备.
+
+所以,在这种前提下,  非常不建议买便宜的号(700+ 或者 别的).
+
+之前尼区的 Claude 很便宜, 但是最近价格也涨上去了.  现在Claude Pro 最便宜是巴基斯但, 120 人民币左右,  美国大概是 136. 在这种情况下, 价格相差不大, 美区的 Apple ID 里面的钱用途更多.
+
+所以我会比较建议直接用美区的号.
+
+所以, 目前(相对)比较靠谱的方案, 就是自己准备美卡, 或者买礼品卡, 从 Apple Store直接订阅 Claude Code.
+
+万一被封号了, 钱还能退回到
+
+--待补充
