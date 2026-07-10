@@ -70,6 +70,30 @@ javascript:(async function(){try{const t=await(await fetch("/api/auth/session"))
 
 结束.
 
+### GPT 封号吗?
+GPT 也封号. 封号的可能原因包括
+1. 买了黑卡. 这个无解
+2. 支付的他卡有问题, 所以不太建议找人代付.
+3. 多个不同的 IP 登录.尤其是不小心用了大陆的 IP 登录 gpt 时, 很容易触发封号邮件. 
+
+
+封号后, 如果是自己用银行卡订阅的, 基本上很难申述成功.
+如果是Apple Store 订阅的, 给 Apple 发邮件即可. 
+
+
+#### Apple 退款的方法
+1. 浏览器里输入  https://reportaproblem.apple.com,
+2. 输入你的密码
+3. 选择 I’d like to那里选request a refund，
+4. 原因选择"Others", 然后选择 "Next" 如下图.![退款 1](pics/refund1.jpg)
+5. 然后填原因.可以用下面的模板, 稍微改一下
+
+```
+I subscribed to ChatGPT XXX on 2026-07-10. Shortly after my subscription, my ChatGPT account was banned by OpenAl. I have not been able to use the Plus service at all since the ban. Since l paid for the service but cannot access it due to the account ban, I respectfully request a full refund for this subscription. Thank you.
+
+```
+Apple 一般会给退掉. 但是这个号就不能订阅 gpt 了, 只能买别的.
+
 
 ## 如何订阅Claude 
 
@@ -83,6 +107,24 @@ javascript:(async function(){try{const t=await(await fetch("/api/auth/session"))
 
 所以, 目前(相对)比较靠谱的方案, 就是自己准备美卡, 或者买礼品卡, 从 Apple Store直接订阅 Claude Code.
 
-万一被封号了, 钱还能退回到
+万一被封号了, 钱还能退回到Apple Id里.
+
+### Claude怎么减少封号的可能
+
+Claude的核心是怎么减少封号的可能性.  说在前面的话:  **订阅 Claude Plan 就注定了要做好随时可能被封号的准备**
+
+作为封了几个号的人, 可以说, 目前没有一个无敌的方法可以避免封号, 只能减少被封号的可能性
+
+1. 用一个靠谱的邮箱.  大家普遍感觉 outlook, hotmail 这些邮箱没那么好, gmail 还可以, 其他国外常见的 zohomail, icloud 也还不错. *据说*, 如果是自己域名的邮件(譬如, 4123123.xyz 这种), 容易被封整个邮箱段.
+
+2. 梯子. 这个很重要. 如果是哪个区的 claude, 就用那个区的 IP 做梯子.  最好是用 住宅 IP 做代理.  不过我自己一直用的是美国机房的CPA 反代, *感觉上*没有比住宅 IP 差太多. 选好这个 IP 之后, 就锁死, 不要飘来飘去. 
+
+如果选了住宅 IP 做代理(或者没有反代的), 一定要看 IP 的质量
+2.1 https://browserleaks.com/dns  看你的 ip 是不是都是美国的 DNS. 如果是自己的 IP, 一定需要这个
+2.2 https://scamalytics.com/ip  看你的 IP 本身质量如何. 
+2.3 https://ipinfo.io/what-is-my-ip 用这个看你的 IP 是不是住宅 IP
+
+3. 改时区, 改语言. 把接入 claude 的机器的时区改成改成美国的时区, 改成英语语言. 
 
 --待补充
+
