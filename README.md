@@ -88,7 +88,7 @@ GPT 也封号. 封号的可能原因包括
 1. 浏览器里输入  https://reportaproblem.apple.com,
 2. 输入你的密码
 3. 选择 I’d like to那里选request a refund，
-4. 原因选择"Others", 然后选择 "Next" 如下图.![退款 1](pics/refund1.jpg)
+4. 原因选择"Others", 然后选择 "Next" 如下图.![退款 1](pics/refund1.png)
 5. 然后填原因.可以用下面的模板, 稍微改一下
 
 ```
