@@ -1,6 +1,7 @@
 # 国内怎么便宜又方便的订阅GPT Claude 套餐
 
-写这个是为了方便大家可以自己订阅GPT 或者Claude, 愿意自己用并且愿意自己的折腾的, 都可以用这个
+写这个是为了方便大家可以自己订阅GPT 或者Claude, 愿意自己用并且愿意自己的折腾的, 都可以用这个.
+如果不愿意折腾, 就去 https://hvoy.ai 上找一个合适的中转站接入即可. 中转站选择可以看 https://github.com/zzsting88/relayAPI 这个 git.
 
 ## 如何订阅GPT
 
