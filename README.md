@@ -98,6 +98,24 @@ I subscribed to ChatGPT XXX on 2026-07-10. Shortly after my subscription, my Cha
 Apple 一般会给退掉. 但是这个号就不能订阅 gpt 了, 只能买别的.
 
 
+## 如何订阅 Grok
+没想到在这个帖子里, 居然会加入了 Grok 这个东西.
+只是这个 Grok实在是太便宜了. 用印度区, 50 块钱 3 个月, 1 个月才 17 块钱.
+
+1. 首先还是需要一个非大陆区域的🪜
+2. 准备一个印度的 apple id. 很简单, 去 icloud.com 上注册一个即可, 注意区域选择印度
+3. 下载 Grok 的应用.
+4. 在 Grok 应用里, 选择 Apple id 登录.
+5. 进入 Grok,  会有一个提示, 7 天免费使用. (很重要) . 譬如 ![grok 试用](pics/grok2.png). 如果没有 7 天试用的账号, 不要往下继续
+6. 去闲鱼搜索印度区 Apple 礼品卡, 买 700 卢比, 目前价格大概50 人民币
+7. 在 grok 里开通 super grok.  这个时候不需要绑定银行卡.
+8. 开通后, 立即取消订阅.  在 Grok 左侧栏打开 SuperGrok
+, 管理您的计费 → 降级
+9. 这个时候, 会有弹窗, 进行挽留. 如图![别人的图](pics/grok3.png)
+10. 选择接收, 7 天免费后, 会扣除 700 卢布.  相当于 50 块钱, 买了 3 个月+7 天的SuperGrok
+
+
+
 ## 如何订阅Claude 
 
 订阅 Claude Plan 就注定了要做好随时可能被封号的准备.
