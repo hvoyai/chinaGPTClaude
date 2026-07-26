@@ -181,3 +181,28 @@ Claude的核心是怎么减少封号的可能性.  说在前面的话:  **订阅
 
 --待补充
 
+### 2026-07-26 更新, 免费订阅 Claude Max 20 方法
+这个方法可能随时被封. 最新成功时间, 2026-07-26 17:30
+
+1.  准备日本的IP
+	
+2. 如这个![proton](pics/proton.png),创建一个免费的邮箱, 最好是 proton.me 的. 这里的邮箱创建出来的账号,不需要手机号验证
+	
+3. 用 p2 创建的邮箱, 直接创建 claude 账号.
+	
+4. 收到邮箱后, 点击创建账号
+	
+5. 进入 claude 之后, 选择升级.
+	
+6. 先选择 Max, 然后选择 Max 20
+![max](pics/max.png)
+	
+7. 使用网站http://randomiban.com/ 然后生成一个随机的IBAN 卡号. 
+如图![randomSepa](pics/randomIban.png)
+
+8. 关键的一步, 选择国家, 德国(gemany), 选择 SEPA. 
+如图![plan](pics/onboard1.png)
+
+	
+9. 开始享受这个 claude max20 吧.
+![claudePlan](pics/plan.png)
