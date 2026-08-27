@@ -1,13 +1,13 @@
 # 国内怎么便宜又方便的订阅GPT Claude 套餐
 
 写这个是为了方便大家可以自己订阅GPT 或者Claude, 愿意自己用并且愿意自己的折腾的, 都可以用这个.
-如果不愿意折腾, 就去 https://www.hvoy.ai 上找一个合适的中转站接入即可. 中转站选择可以看 https://github.com/zzsting88/relayAPI 这个 git.
+如果不愿意折腾, 就去 https://www.hvoyai.com 上找一个合适的中转站接入即可. 中转站选择可以看 https://github.com/zzsting88/relayAPI 这个 git.
 
 ## 如何订阅GPT
 
 把GPT放在第一个, 是因为现阶段最推崇的就是GPT, 量多事少. 
 
-具体GPT的价格可以看[这里](https://www.hvoy.ai/official-plans/chatgpt)
+具体GPT的价格可以看[这里](https://www.hvoyai.com/official-plans/chatgpt)
 
 随着土区GPT涨价后, 现在最划算的应该是菲区. (2026-07-25更新:目前最便宜的是玻利维亚区)
 
