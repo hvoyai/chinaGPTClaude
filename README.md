@@ -9,7 +9,7 @@
 
 具体GPT的价格可以看[这里](https://www.hvoyai.com/official-plans/chatgpt)
 
-随着土区GPT涨价后, 现在最划算的应该是菲区. (2026-07-25更新:目前最便宜的是玻利维亚区)
+随着土区GPT涨价后, 现在最划算的应该是菲区.
 
 ![菲区价格1](pics/ph1.jpg)
 
